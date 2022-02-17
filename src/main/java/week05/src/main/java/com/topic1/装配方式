@@ -1,0 +1,6 @@
+Spring Bean的装配方式
+1.在Java中进行显式配置(BeanConfig)
+
+2.自动装配（Driver2）
+
+3.在XML中进行显式配置（bean.xml体现）
